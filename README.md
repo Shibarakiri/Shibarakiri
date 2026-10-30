@@ -1,4 +1,6 @@
 # Shibarakiri
+
+![](yoru.png)
  
 Student at 42, learning software development with a focus on system programming and the C language.
  
