@@ -28,7 +28,7 @@ Student at 42, I am learning to program in C through hands-on projects: programm
 | Project | Description | Status |
 |---------|-------------|--------|
 | [libft](https://github.com/Shibarakiri/libft) | Reimplementation of standard C library functions | Completed |
-| ft_printf | Reimplementation of the `printf` function in C | In progress |
+| [ft_printf](https://github.com/Shibarakiri/ft_printf/) | Reimplementation of the `printf` function in C | Completed |
  
 ## Contact
  
